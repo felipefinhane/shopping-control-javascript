@@ -4,4 +4,4 @@ HTML 5
 JavaScript
 Bootstrap 3
 
-Brownser Local Storage
+Browser Local Storage
